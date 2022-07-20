@@ -1,0 +1,18 @@
+body {
+  font-family: Roboto, 'Helvetica Neue', sans-serif;
+  margin: 0;
+  padding: 30px;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.full {
+  color: whitesmoke !important;
+  background-color: black;
+  height: 100vh !important;
+  // min-width: 100vw !important;
+  max-height: 100vh !important;
+}
